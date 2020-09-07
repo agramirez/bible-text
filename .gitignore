@@ -1,0 +1,6 @@
+# ignore words folder
+words/
+
+# ignore beam and temp files
+*.beam
+*.*~
